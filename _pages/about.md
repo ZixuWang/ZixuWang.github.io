@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.infineon.com/'>Infineon Technologies</a> & <a href='https://www.tum.de/en/'>Technical University of Munich</a>
+subtitle: PhD Candidate at <a href='https://www.tum.de/en/'>Technical University of Munich</a> & <a href='https://www.infineon.com/'>Infineon Technologies</a>
 
 profile:
   align: right
