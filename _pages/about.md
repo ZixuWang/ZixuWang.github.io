@@ -35,7 +35,9 @@ of Generative AI*.
 Before the PhD I earned an MSc in Electrical and Computer Engineering at TUM and worked at
 **Bosch Center for Artificial Intelligence**, **Siemens AG**, and **Infineon Technologies**, where
 I developed trajectory-prediction and radar–camera depth-estimation models for autonomous
-driving, applied machine learning to logistics, and built AI models for sensor data.
+driving, applied machine learning to logistics, and built AI models for sensor data. That path
+took me up the automotive stack — from how a vehicle perceives the world to how its software gets
+specified — and it shaped how I work today: on real engineering data, under real constraints.
 
 Feel free to reach out for collaborations, questions, or just to say hi at
 [hi@zixu.wang](mailto:hi@zixu.wang).

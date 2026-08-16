@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zixu
 middle_name:
 last_name: Wang
-contact_note: >
-  Email is the most reliable way to reach me.
+contact_note: # shown under the social icons; left empty on purpose
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Zixu Wang — PhD candidate at Infineon Technologies and the Technical University of Munich,
   building AI systems for automotive software development.
