@@ -106,3 +106,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
+          single-commit: true # gh-pages is a build artifact; keep one commit, no history
+          git-config-name: Zixu Wang
+          git-config-email: 19487129+ZixuWang@users.noreply.github.com
