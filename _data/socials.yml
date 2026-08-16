@@ -1,0 +1,13 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+
+email: hi@zixu.wang
+scholar_userid: JT_D5sUAAAAJ # Google Scholar ID
+github_username: ZixuWang # GitHub username
+# orcid_id: # TODO: add your ORCID iD if you have one
+linkedin_username: wang-zixu # LinkedIn vanity name (the bit after /in/)
+# semanticscholar_id: # TODO: optional
+# NOTE: keys must have a value or the jekyll-socials plugin crashes with
+# "no implicit conversion of nil into String". Keep unused keys commented out.
+# cv_pdf: /assets/pdf/cv.pdf # TODO: uncomment once your CV is at assets/pdf/cv.pdf

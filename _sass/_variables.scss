@@ -1,0 +1,68 @@
+/*******************************************************************************
+ * Variables used throughout the theme.
+ *
+ * LOCAL OVERRIDE of al_folio_core's _sass/_variables.scss.
+ * Jekyll's sass load path puts this repo's _sass/ ahead of the gem's, so this
+ * file replaces the gem copy wholesale — keep every variable defined here.
+ *
+ * The only intentional deviations from upstream are the two theme accents:
+ *   $purple-color -> site accent in LIGHT mode   (upstream #b509ac, magenta)
+ *   $cyan-color   -> site accent in DARK mode    (upstream #2698ba, teal)
+ * Change those two hex values to re-colour the whole site.
+ ******************************************************************************/
+
+@use "sass:color";
+
+// Colors
+$red-color: #ff3636 !default;
+$red-color-dark: #b71c1c !default;
+$orange-color: #f29105 !default;
+$blue-color: #0076df !default;
+$blue-color-dark: #00369f !default;
+
+// --- SITE ACCENT (dark mode) -------------------------------------------------
+// Lifted and desaturated so it stays legible on the dark grey ground.
+$cyan-color: #6ba6f5 !default;
+$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+
+$green-color: #00ab37 !default;
+$green-color-lime: #b7d12a !default;
+$green-color-dark: #009f06 !default;
+$green-color-light: #ddffdd !default;
+$green-color-bright: #11d68b !default;
+
+// --- SITE ACCENT (light mode) ------------------------------------------------
+// Named $purple-color for upstream compatibility; the value is a deep blue.
+$purple-color: #1552b3 !default;
+$light-purple-color: color.adjust($purple-color, $lightness: 25%);
+
+$pink-color: #f92080 !default;
+$pink-color-light: #ffdddd !default;
+$yellow-color: #efcc00 !default;
+
+$grey-color: #828282 !default;
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark: #1c1c1d;
+$grey-900: #212529;
+
+$white-color: #ffffff !default;
+$black-color: #000000 !default;
+
+// Theme colors
+
+$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-dark: #2c3237 !default;
+
+// Font awesome location
+$fa-font-path: "../webfonts";
+
+// Back To Top button config
+$back-to-top-z-index: 10;
+$back-to-top-bottom: 30px;
+$back-to-top-right: 30px;
+$back-to-top-diameter: 40px;
+$back-to-top-height: $back-to-top-diameter;
+$back-to-top-width: $back-to-top-diameter;
+
+// Max width default
+$max-content-width: 930px !default;
