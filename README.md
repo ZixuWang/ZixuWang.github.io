@@ -1,6 +1,6 @@
 # zixu.wang
 
-Source of my personal website, [www.zixu.wang](https://www.zixu.wang).
+Source of my personal website, [zixu.wang](https://zixu.wang).
 
 Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme (MIT), deployed to GitHub Pages by the `deploy.yml` workflow.
 

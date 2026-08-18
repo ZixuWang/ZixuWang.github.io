@@ -1,13 +1,13 @@
 # CLAUDE.md
 
 Personal website of Zixu Wang — an al-folio v1 Jekyll starter, deployed to GitHub Pages at
-https://www.zixu.wang. This is a **user site built from the template**, not the upstream
+https://zixu.wang. This is a **user site built from the template**, not the upstream
 al-folio repo. Upstream's docs live in `docs/`; where they talk about the upstream repo
 (baseurl `/al-folio`, style-contract lint, PR workflow) they do NOT apply here.
 
 ## Facts that differ from upstream docs
 
-- `baseurl` is intentionally **blank** and `url` is `https://www.zixu.wang`. Do not "fix" it to `/al-folio`.
+- `baseurl` is intentionally **blank** and `url` is `https://zixu.wang`. Do not "fix" it to `/al-folio`.
 - `_sass/_variables.scss` and `_sass/_themes.scss` are deliberate local overrides of the
   `al_folio_core` gem (allowed for user sites). `_themes.scss` is a verbatim copy that exists only
   so its `@use "variables"` resolves to the local file. All colour changes go in `_variables.scss`.
@@ -15,7 +15,7 @@ al-folio repo. Upstream's docs live in `docs/`; where they talk about the upstre
   `_site/` to the `gh-pages` branch. **Do not modify `Gemfile.lock` casually** — CI uses it verbatim.
 - `_data/socials.yml`: every key must have a value; a bare `key:` crashes jekyll-socials
   (`no implicit conversion of nil into String`). Comment unused keys out.
-- `CNAME` (content `www.zixu.wang`) belongs in the repo root **only after** the DNS CNAME record
+- `CNAME` (content `zixu.wang`) belongs in the repo root **only after** the DNS CNAME record
   exists at DNSPod; adding it earlier makes zixuwang.github.io redirect to a dead domain.
 - Cloudflare Web Analytics beacon token is in `_config.yml` → `analytics.cloudflare` (public, not secret).
 
