@@ -1,13 +1,13 @@
 # CLAUDE.md
 
 Personal website of Zixu Wang — an al-folio v1 Jekyll starter, deployed to GitHub Pages at
-https://zixu.wang. This is a **user site built from the template**, not the upstream
+https://www.zixu.wang. This is a **user site built from the template**, not the upstream
 al-folio repo. Upstream's docs live in `docs/`; where they talk about the upstream repo
 (baseurl `/al-folio`, style-contract lint, PR workflow) they do NOT apply here.
 
 ## Facts that differ from upstream docs
 
-- `baseurl` is intentionally **blank** and `url` is `https://zixu.wang`. Do not "fix" it to `/al-folio`.
+- `baseurl` is intentionally **blank** and `url` is `https://www.zixu.wang`. Do not "fix" it to `/al-folio`.
 - `_sass/_variables.scss` and `_sass/_themes.scss` are deliberate local overrides of the
   `al_folio_core` gem (allowed for user sites). `_themes.scss` is a verbatim copy that exists only
   so its `@use "variables"` resolves to the local file. All colour changes go in `_variables.scss`.
