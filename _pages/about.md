@@ -28,11 +28,12 @@ latest_posts:
 <style>.publications a.abstract.btn { display: none; }</style>
 
 I am a PhD candidate in Computer Science at **Technical University of Munich** and **Infineon
-Technologies**, supervised by [Prof. Dr. Chunyang Chen](https://chunyang-chen.github.io/). I work on
-large language models for automotive software development: how they can help turn what customers
-ask for into specifications engineers can build, and how to tell when they should not be trusted.
-Alongside my PhD, I serve as a teaching assistant for TUM's course *Foundations and Application of
-Generative AI*.
+Technologies**, supervised by [Prof. Dr. Chunyang Chen](https://chunyang-chen.github.io/). My research
+interests lie in LLM agents, including multi-agent systems, agent memory, and evaluation. I am
+particularly interested in when such systems can be trusted to act reliably, and I apply them to
+software engineering, especially requirements engineering and software architecture for automotive
+software. Alongside my PhD, I serve as a teaching assistant for TUM's course *Foundations and
+Application of Generative AI*.
 
 Before the PhD I earned an MSc in Electrical and Computer Engineering at TUM and worked at
 **Bosch Center for Artificial Intelligence**, **Siemens AG**, and **Infineon Technologies**, where
