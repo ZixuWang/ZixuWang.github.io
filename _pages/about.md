@@ -29,7 +29,7 @@ latest_posts:
 
 I am a PhD candidate in Computer Science at **Technical University of Munich** and **Infineon
 Technologies**, supervised by [Prof. Dr. Chunyang Chen](https://chunyang-chen.github.io/). My research
-interests lie in LLM agents, including multi-agent systems, agent memory, and evaluation. I am
+interests lie in LLM agents and their evaluation, including multi-agent systems and agent memory. I am
 particularly interested in when such systems can be trusted to act reliably, and I apply them to
 software engineering, especially requirements engineering and software architecture for automotive
 software. Alongside my PhD, I serve as a teaching assistant for TUM's course
