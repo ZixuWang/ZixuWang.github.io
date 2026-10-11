@@ -30,7 +30,7 @@ latest_posts:
 I am a PhD candidate in Computer Science at **Technical University of Munich** and **Infineon
 Technologies**, where my work focuses on using large language models for automotive software development —
 from deciding what to build to specifying it. I am supervised by
-[Prof. Dr. Chunyang Chen](https://chunyang-chen.github.io/) and expect to graduate in 2027.
+[Prof. Dr. Chunyang Chen](https://chunyang-chen.github.io/).
 Alongside it, I serve as a teaching assistant for TUM's course *Foundations and Application
 of Generative AI*.
 
