@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>.publications a.abstract.btn { display: none; }</style>
+
 I am a PhD candidate in Computer Science at **Technical University of Munich** and **Infineon
 Technologies**, where my work focuses on using large language models for automotive software development —
 from deciding what to build to specifying it. I am supervised by
