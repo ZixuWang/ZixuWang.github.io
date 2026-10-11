@@ -32,8 +32,8 @@ Technologies**, supervised by [Prof. Dr. Chunyang Chen](https://chunyang-chen.gi
 interests lie in LLM agents, including multi-agent systems, agent memory, and evaluation. I am
 particularly interested in when such systems can be trusted to act reliably, and I apply them to
 software engineering, especially requirements engineering and software architecture for automotive
-software. Alongside my PhD, I serve as a teaching assistant for TUM's course *Foundations and
-Application of Generative AI*.
+software. Alongside my PhD, I serve as a teaching assistant for TUM's course
+[*Foundations and Application of Generative AI*](https://chunyang-chen.github.io/tum-genai-course/).
 
 Before the PhD I earned an MSc in Electrical and Computer Engineering at TUM and worked at
 **Bosch Center for Artificial Intelligence**, **Siemens AG**, and **Infineon Technologies**, where
